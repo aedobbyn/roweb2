@@ -3,9 +3,8 @@ slug: "review-collaboration-mee"
 title: "Announcing a New rOpenSci Software Review Collaboration"
 date: 2017-11-29
 authors:
-authors:
   - name: Maëlle Salmon
-    url: http://www.masalmon.eu/
+    url: https://masalmon.eu/
   - name: Noam Ross
     url: http://www.noamross.net/
   - name: Scott Chamberlain    

@@ -15,3 +15,5 @@ config.codekit3
 .Rhistory
 *.Rproj
 content/blog/*.html
+addmypost.R
+

@@ -1,20 +1,19 @@
 ---
-slug: "author-survey"
-title: 'The 2018 author and reviewer survey'
+slug: author-survey
+title: The 2018 author and reviewer survey
 date: '2018-04-17'
 authors:
   - name: Karthik Ram
   - name: Noam Ross
   - name: Scott Chamberlain
   - name: Maëlle Salmon
-
 categories: blog
 topicid: 1142
 tags:
-- community
-- ropensci
-- onboarding
-- survey
+  - community
+  - rOpenSci
+  - onboarding
+  - survey
 ---
 
 rOpenSci's package review system (aka
@@ -46,9 +45,9 @@ satisfaction as we continue to grow.
 ![](https://i.imgur.com/Vx0HtQ9.png)![](https://i.imgur.com/N6rYblm.png)
 
 We provide
-[packaging](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)
+[packaging](https://ropensci.github.io/dev_guide/building.html)
 and
-[reviewing](https://github.com/ropensci/onboarding/blob/master/reviewing_guide.md)
+[reviewing](https://ropensci.github.io/dev_guide/onboarding-guide-for-reviewers.html)
 guides for our authors and reviewers to consult before and during the
 peer-review process. While both were highly rated, enthusiasm was
 greater for the packaging guide than the reviewing guide.
@@ -60,7 +59,7 @@ this was a great suggestion, and have begun the process of porting all
 our documentation for packaging and reviewing, into a common bookdown
 book. Editor Maëlle Salmon is leading this work, and you can find the
 in-progress book, *rOpenSci Packages: Development, Maintenance, and Peer
-Review*, [here](https://github.com/ropenscilabs/dev_guide/).
+Review*, [here](https://ropensci.github.io/dev_guide/).
 
 We also got feedback from authors that they wanted guidance on how best
 to acknowledge the efforts of reviewers. This was one of our drivers to

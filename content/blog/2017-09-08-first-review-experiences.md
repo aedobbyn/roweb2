@@ -1,20 +1,19 @@
 ---
-slug: "first-review-experiences"
-title: "Experiences as a first time rOpenSci package reviewer"
-date: 2017-09-08
+slug: first-review-experiences
+title: Experiences as a first time rOpenSci package reviewer
+date: '2017-09-08'
 authors:
   - name: Verena Haunschmid
     url: http://blog.haunschmid.name
-categories:
-  - blog
+categories: blog
 topicid: 861
 tags:
-- R
-- software
-- review
-- reviewer
-- ropensci
-- onboarding
+  - R
+  - software
+  - review
+  - reviewer
+  - rOpenSci
+  - onboarding
 ---
 
 It all started January 26<sup>th</sup> this year when I signed up to volunteer as
@@ -23,7 +22,7 @@ wanting to volunteer was to learn something new and to
 contribute to the R open source community. If you are wondering why the
 people behind rOpenSci are doing this, you can read [How rOpenSci uses Code Review to Promote Reproducible Science](https://www.numfocus.org/blog/how-ropensci-uses-code-review-to-promote-reproducible-science/).
 
-Three months later I was contacted by [Maelle Salmon](https://twitter.com/masalmon) asking whether I was interested in
+Three months later I was contacted by [Maëlle Salmon](https://twitter.com/masalmon) asking whether I was interested in
 reviewing the R package [`patentsview`](https://github.com/ropensci/patentsview) for rOpenSci. And yes, I
 was! To be honest I was a little bit thrilled.
 
@@ -52,7 +51,7 @@ queries to check whether the behavior of the methods was as expected.
 With this approach I was able to give feedback to the package author
 which led to the inclusion of an additional unit test, a helper function
 that makes the package easier to use, clarification of an error message
-and an improved documentation. You can find the review I did [here](https://github.com/ropensci/onboarding/issues/112).
+and an improved documentation. You can find the review I did [here](https://github.com/ropensci/onboarding/issues/112#issuecomment-303462505).
 
 There are several R packages that helped me get started with my review,
 e.g. [`devtools`](https://github.com/hadley/devtools) and

@@ -1,20 +1,22 @@
 ---
-slug: "peer-review-value"
+slug: peer-review-value
 title: Where is the value in package peer review?
 authors:
-  - name: Miles McBain 
+  - name: Miles McBain
     url: https://github.com/milesmcbain
-date: 2018-04-06
-preface: "This reflection on the value of package peer review is a cross-post of the original that appeared on Miles McBain's [personal blog](https://milesmcbain.xyz) on 2018-03-26."
+date: '2018-04-06'
+preface: This reflection on the value of package peer review is a cross-post of the
+  original that appeared on Miles McBain's [personal blog](https://milesmcbain.xyz)
+  on 2018-03-26.
 categories: blog
 topicid: 1132
 tags:
-- r
-- community
-- software
-- review
-- reviewer
-- onboarding
+  - R
+  - community
+  - software
+  - review
+  - reviewer
+  - onboarding
 ---
 
 If you read my [reflection #1 on rOpenSci Onboarding](https://milesmcbain.xyz/ropensci-onboarding1/), then you know I see value in the Onboarding process. A LOT of value even. This post is about where that value lies. 
@@ -36,7 +38,7 @@ That perspective implied the systematic process that I was seeking. So I started
 
 I did review code as well. But it was a natural part of exploring the behaviour as I followed the documented workflow thread. And If I think about the impact the more technical issues I found had on the package as a whole? It's probably negligible. Sure you can argue the code is a bit more robust, a bit easier to maintain. But it would be hard to justify maintaining code that isn't seeing any use!
 
-I wasn't lucky enough to see Onboarding editor [Maëlle Salmon's](https://twitter.com/ma_salmon) recent hatted [SatRday talk](https://www.youtube.com/watch?v=v7yZ8SvKCwU), but I had to smile when I spotted [this slide in her deck](http://www.masalmon.eu/satrday_keynote/slides#21):
+I wasn't lucky enough to see Onboarding editor [Maëlle Salmon's](https://twitter.com/ma_salmon) recent hatted [SatRday talk](https://www.youtube.com/watch?v=v7yZ8SvKCwU), but I had to smile when I spotted [this slide in her deck](https://maelle.github.io/satrday_keynote/slides#21):
 
 ![Yes indeed!](/img/blog-images/2018-04-06-peer-review-value/what_to_review_for.png)
 
